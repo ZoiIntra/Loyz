@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://zoihwid.000webhostapp.com/Workspace/Whitelist'))()
+loadstring(game:HttpGet('https://zoihwid.000webhostapp.com/Client/Luncher'))()
