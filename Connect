@@ -1,0 +1,24 @@
+local PlaceId = game.PlaceId
+if PlaceId == 2753915549 then
+    _G.ScriptLinks = "https://raw.githubusercontent.com/ZoiIntra/Loyz/main/BloxFruits"
+    loadstring(game:HttpGet(_G.ScriptLinks))()
+elseif PlaceId == 4442272183 then
+    _G.ScriptLinks = "https://raw.githubusercontent.com/ZoiIntra/Loyz/main/BloxFruits"
+    loadstring(game:HttpGet(_G.ScriptLinks))()
+elseif PlaceId == 7449423635 then
+    _G.ScriptLinks = "https://raw.githubusercontent.com/ZoiIntra/Loyz/main/BloxFruits"
+    loadstring(game:HttpGet(_G.ScriptLinks))()
+elseif PlaceId == 537413528 then
+    _G.ScriptLinks = "https://raw.githubusercontent.com/ZoiIntra/Loyz/main/BuildABoatForTreasure"
+    loadstring(game:HttpGet(_G.ScriptLinks))()
+elseif PlaceId == 621129760 then
+    _G.ScriptLinks = "https://raw.githubusercontent.com/ZoiIntra/Loyz/main/KAT"
+    loadstring(game:HttpGet(_G.ScriptLinks))()
+elseif PlaceId == 9224601490 then
+    _G.ScriptLinks = "https://raw.githubusercontent.com/ZoiIntra/Loyz/main/FruitsBattlegrounds"
+    loadstring(game:HttpGet(_G.ScriptLinks))()
+elseif PlaceId == 286090429 then
+    game:GetService("Players").LocalPlayer:Kick("[ Wait for Update ! ]")
+else
+    Player:Kick("[ Error : JSUGEE-3424 ]")
+end
