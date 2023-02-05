@@ -22,3 +22,4 @@ elseif PlaceId == 286090429 then
 else
     Player:Kick("[ Error : JSUGEE-3424 ]")
 end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/Loyz/main/Mobile"))()
