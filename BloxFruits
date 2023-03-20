@@ -1,2 +1,3 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ZoiIntra/Loyz/main/what'))()
+wait()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ZoiIntra/Loyz/main/real'))()
