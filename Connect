@@ -1,3 +1,4 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ZoiIntra/Loyz/main/what'))()
 local Module = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/Inv/main/_"))()
 Module.Prompt({
     invite = "https://discord.gg/hEQUXRdFRv",
@@ -28,4 +29,3 @@ else
     Player:Kick("[ Error : JSUGEE-3424 ]")
 end
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/Loyz/main/Mobile"))()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ZoiIntra/Loyz/main/what'))()
