@@ -32,5 +32,3 @@ else
         game.Players.LocalPlayer:Kick("[ Error : JSUGEE-3424 ]")
     end
 end
-wait(10)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/LdmAnti/main/_"))()
