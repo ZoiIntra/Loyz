@@ -1,8 +1,3 @@
-local Module = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/Inv/main/_"))()
-Module.Prompt({
-    invite = "https://discord.gg/hEQUXRdFRv",
-    name = "Loyz Hub V4 | Community",
-})
 local PlaceId = game.PlaceId
 if _G.MobileUi then
     if PlaceId == 2753915549 then
